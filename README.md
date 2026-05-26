@@ -1,2 +1,2 @@
 # Homelab-docs
-This repository documents my homelab journey and the self-hosting technologies I find interesting and want to learn more about! 
+**This Repository Homelab contains all my homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.**
